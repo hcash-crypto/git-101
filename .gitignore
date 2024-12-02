@@ -1,0 +1,15 @@
+# Binaries
+Debug/
+Release/
+
+# vs files
+.vs
+*.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+
+#intermediat
+Hello-Git/Debug/
+Hello-Git/Release/
